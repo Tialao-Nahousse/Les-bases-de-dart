@@ -62,7 +62,7 @@ void set setPrice(double prix){
   if(this._marque == 'HP' && prix > 10000){
     this._price = prix;
   }else{
-    print("faut changer ton prix c'est trop p'tit tu veus un wé djidji na ");
+    print("faut changer ton prix c'est trop p'tit tu veux un wé djidji na ");
   }
 
 }
